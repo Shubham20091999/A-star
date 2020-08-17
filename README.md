@@ -1,6 +1,6 @@
 # A-star
 To check out the product please follow the link:
-https://drive.google.com/drive/folders/1t66T6IfGOsb_9EyfGUYvKdKqt0vXhbw_?usp=sharing
+https://drive.google.com/file/d/1MnUq1s9ly-tBklZ5gZpy9L3HHjAPyv_P/view?usp=sharing
 
 A-star visualization using SFML library in C++
 
